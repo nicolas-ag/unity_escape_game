@@ -2,10 +2,12 @@
 
 # Instructions du jeu
 
+
 ## Les contrôles :
 
 Utilisation des flèches directionnelles ou ZQSD pour faire avancer le soldat et utilisation de la souris pour l'orienter ainsi que la caméra.
 Bouton Echape pour faire Pause lors du jeu.
+
 
 ## Victoires & défaites : 
 
@@ -13,6 +15,7 @@ Pour gagner, le joueur doit récupérer l'ensemble des clés dissimulées sur la
 la ligne d'arrivée tout en continuant d'éviter les zombies.
 
 La défaite survient si l'on se fait repérer par un zombie. Il n'y a pas de limite de temps.
+
 
 ## Capacités du player :
 
@@ -22,16 +25,17 @@ Le player peut avancer dans toutes les directions en orientant sa caméra tel qu
 
 # Nos remarques particulières
 
+
 ## Limitations & bugs connus :
 
 Lorsque le player passe contre des objets, il y a de legers bugs de collision.
+
 
 ## Voies d'amélioration :
 
 Pour améliorer notre projet, nous avons penser à différentes améliorations que nous n'avons pas eu le temps de développer mais qui pourraient apporter un plus à notre jeu comme par
 exemple des bonus (bonus de vitesse, bonus de vision des zombies ou des clés, bonus d'invisibilité, etc...) qui seraient disposer au sol et s'activerait pendant un certain temps
 lorsque le player passe dessus. Nous avons également pensé à afficher une mini-map.
-
 
 
 ## Les rôles de chacun
@@ -44,9 +48,10 @@ lorsque le player passe dessus. Nous avons également pensé à afficher une min
 
 # Origines des assets
 
-| Plugin | Links |
+
+| Asset | Link |
 | ------ | ------ |
-| FPS Hangar : modèle 3D, payant (0.89€) | [https://assetstore.unity.com/packages/3d/environments/industrial/fps-hangar-20040]|
+| FPS Hangar : modèle 3D, payant | [https://assetstore.unity.com/packages/3d/environments/industrial/fps-hangar-20040]|
 | Zombie : modèle 3D, gratuit | [https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232]|
 | Soldat : modèle 3D | [https://assetstore.unity.com/packages/3d/characters/humanoids/combat-character-pack-soldier-96594]|
 | Clé : modèle 3D | [https://assetstore.unity.com/packages/3d/handpainted-keys-42044]|
